@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "breakinfinity",
+  "name": "Break Infinity",
+  "description": "MC Forge break_infinity Mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["AntiDim19728","hypcos","seanxlx2011","VeryrrDefine","dlsdl"],
+  "credits": "BreakLibTeam",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
